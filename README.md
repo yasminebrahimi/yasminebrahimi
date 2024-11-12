@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi! I'm this is Yasmin<br><br>My Technical Toolkit 🛠️<br>Frontend 🌐: JavaScript, React JS, Tailwind CSS<br>Backend 💻: Java, Database Management, Cloud Services<br>Testing 🔍: Robot Framework, Selenium Library<br>Project Tools 🗂️: Git, GitHub, Jira, Confluence
 
 
