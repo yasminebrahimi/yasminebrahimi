@@ -1,4 +1,4 @@
-Hi! I'm this is Yasmin<br><br>My Technical Toolkit 🛠️<br>Frontend 🌐: JavaScript, React JS, Tailwind CSS<br>Backend 💻: Java, Database Management, Cloud Services<br>Testing 🔍: Robot Framework, Selenium Library<br>Project Tools 🗂️: Git, GitHub, Jira, Confluence
+Hi! I'm Yasmin 👋<br><br> My Technical Toolkit 🛠️<br> Frontend 🌐: HTML, CSS, JavaScript, React, Tailwind CSS, Next.js (learning)<br> Backend 💻: Python, SQL, REST APIs, AWS<br> DevOps 🛠️: Docker, Agile Methodology, Git, GitHub<br> Testing 🔍: Robot Framework, Postman<br> CMS 📝: WordPress, Wix, Squarespace<br> Project Tools 🗂️: Jira, Confluence
 
 
 ## 🌐 Socials:
