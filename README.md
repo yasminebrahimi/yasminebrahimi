@@ -1,21 +1,27 @@
-Hi! I'm Yasmin 👋<br><br> My Technical Toolkit 🛠️<br>
+<h2>Hi! I'm Yasmin 👋</h2>
+<p><strong>My Technical Toolkit 🛠️</strong></p>
 
-Languages & Frameworks
-Languages: JavaScript, Python
-Frameworks & Libraries: Bootstrap, Tailwind CSS, React, Next.js (learning)
-Testing & Automation
-Tools: Robot Framework, Postman
-Cloud Services
-Platforms: AWS
-Databases
-Technologies: SQL
-Other Tools
-DevOps: Docker, Git, GitHub
-Project Management: Jira, Confluence
-Additional Familiarity
-Data Analytics: Exploring tools like NumPy and MATLAB (if applicable)
+<h3>Languages & Frameworks</h3>
+<p><strong>Languages:</strong> JavaScript, Python</p>
+<p><strong>Frameworks & Libraries:</strong> Bootstrap, Tailwind CSS, React, Next.js (learning)</p>
 
-Content Management Systems (CMS): WordPress, Wix, Squarespace
+<h3>Testing & Automation</h3>
+<p><strong>Tools:</strong> Robot Framework, Postman</p>
+
+<h3>Cloud Services</h3>
+<p><strong>Platforms:</strong> AWS</p>
+
+<h3>Databases</h3>
+<p><strong>Technologies:</strong> SQL</p>
+
+<h3>Other Tools</h3>
+<p><strong>DevOps:</strong> Docker, Git, GitHub</p>
+<p><strong>Project Management:</strong> Jira, Confluence</p>
+
+<h3>Additional Familiarity</h3>
+<p><strong>Data Analytics:</strong> Exploring tools like NumPy and MATLAB (if applicable)</p>
+<p><strong>Content Management Systems (CMS) </p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yasmin-ebrahimi/) 
