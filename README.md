@@ -2,17 +2,17 @@
 <p><strong>My Technical Toolkit 🛠️</strong></p>
 
 <h3>Languages & Frameworks</h3>
-<p><strong>Languages:</strong> JavaScript, Python</p>
-<p><strong>Frameworks & Libraries:</strong> Bootstrap, Tailwind CSS, React, Next.js (learning)</p>
+<p></strong> JavaScript, Python</p>
+<p></strong> Bootstrap, Tailwind CSS, React, Next.js (learning)</p>
 
 <h3>Testing & Automation</h3>
-<p><strong>Tools:</strong> Robot Framework, Postman</p>
+<p></strong> Robot Framework, Postman</p>
 
 <h3>Cloud Services</h3>
-<p><strong>Platforms:</strong> AWS</p>
+<p></strong> AWS</p>
 
 <h3>Databases</h3>
-<p><strong>Technologies:</strong> SQL</p>
+<p></strong> SQL</p>
 
 <h3>Other Tools</h3>
 <p><strong>DevOps:</strong> Docker, Git, GitHub</p>
