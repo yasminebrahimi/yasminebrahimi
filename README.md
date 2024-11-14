@@ -1,5 +1,21 @@
-Hi! I'm Yasmin 👋<br><br> My Technical Toolkit 🛠️<br> Frontend 🌐: HTML, CSS, JavaScript, React, Tailwind CSS, Next.js (learning)<br> Backend 💻: Python, SQL, REST APIs, AWS<br> DevOps 🛠️: Docker, Agile Methodology, Git, GitHub<br> Testing 🔍: Robot Framework, Postman<br> CMS 📝: WordPress, Wix, Squarespace<br> Project Tools 🗂️: Jira, Confluence
+Hi! I'm Yasmin 👋<br><br> My Technical Toolkit 🛠️<br>
 
+Languages & Frameworks
+Languages: JavaScript, Python
+Frameworks & Libraries: Bootstrap, Tailwind CSS, React, Next.js (learning)
+Testing & Automation
+Tools: Robot Framework, Postman
+Cloud Services
+Platforms: AWS
+Databases
+Technologies: SQL
+Other Tools
+DevOps: Docker, Git, GitHub
+Project Management: Jira, Confluence
+Additional Familiarity
+Data Analytics: Exploring tools like NumPy and MATLAB (if applicable)
+
+Content Management Systems (CMS): WordPress, Wix, Squarespace
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yasmin-ebrahimi/) 
