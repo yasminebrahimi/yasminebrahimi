@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm Yasmin</h2>
+<h2 align="center">Hi, I'm Yasmin</h2>
 
 ###
 
@@ -19,6 +19,17 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<h3>💻 Languages, Libraries, and Frameworks:</h3>
+<p>Python, Java, Bootstrap, Tailwind CSS, JavaScript, React.js, Next.js</p>
+
+<h3>🌟 Familiar With:</h3>
+<p>MySQL, AWS, Robot Framework, Selenium Library, Data Architecture, Machine Learning, Algorithms, Pandas, NumPy, Matplotlib</p>
+
+<h3>🛠️ Tools:</h3>
+<p>Git, GitHub, Agile Methodology, Docker, Power BI, Postman, Visual Studio 2022, SQL Server Management Studio 20</p>
 
 ###
 
@@ -62,16 +73,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo" />
 </div>
 
-###
-
-<h3 align="left">Other Tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/agile/agile-original.svg" height="40" alt="agile logo" />
-</div>
