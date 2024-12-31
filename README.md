@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Software developer student at HAMK</h3>
+<h3 align="center">Software development student at HAMK</h3>
 
 ###
 
