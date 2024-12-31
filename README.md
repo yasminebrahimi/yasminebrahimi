@@ -1,4 +1,4 @@
-<h2>Hi! I'm Yasmin 👋</h2>
+<h2>Hi! I'm Yasmin</h2>
 <p>Software developer student at HAMK</p>
 
 ---
