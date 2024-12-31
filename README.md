@@ -20,20 +20,24 @@
   </a>
 </div>
 
+
+
+
 ###
 
 <h3>💻 Languages, Libraries, and Frameworks:</h3>
-<p>Python, Java, Bootstrap, Tailwind CSS, JavaScript, React.js, Next.js</p>
+   <p>Python, Java, Bootstrap, Tailwind CSS, JavaScript, React.js, Next.js</p>
 
 <h3>🌟 Familiar With:</h3>
-<p>MySQL, AWS, Robot Framework, Selenium Library, Data Architecture, Machine Learning, Algorithms, Pandas, NumPy, Matplotlib</p>
+   <p>MySQL, AWS, Robot Framework, Selenium Library, Data Architecture, Machine Learning, Algorithms, Pandas, NumPy, Matplotlib</p>
 
 <h3>🛠️ Tools:</h3>
-<p>Git, GitHub, Agile Methodology, Docker, Power BI, Postman, Visual Studio 2022, SQL Server Management Studio 20</p>
+   <p>Git, GitHub, Agile Methodology, Docker, Power BI, Postman, Visual Studio 2022, SQL Server Management Studio 20</p>
 
 ###
 
-<h3 align="left">Technologies</h3>
+
+
 
 ###
 
