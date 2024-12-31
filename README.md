@@ -15,7 +15,7 @@
 
 
 <h3>💻 Languages, Libraries, and Frameworks:</h3>
-   <p>Python, Java, Bootstrap, Tailwind CSS, JavaScript, React.js, Next.js</p>
+   <p>Python, Java, Tailwind CSS, JavaScript, React.js, Next.js</p>
 
 <h3>🌟 Familiar With:</h3>
    <p>MySQL, AWS, Robot Framework, Selenium Library, Data Architecture, Machine Learning, Algorithms, Pandas, NumPy, Matplotlib</p>
@@ -72,6 +72,9 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/yasmin-ebrahimi/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:yasminebrahimi54@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
 </div>
 
