@@ -15,7 +15,7 @@
 
 
 <h3>💻 Languages, Libraries, and Frameworks:</h3>
-   <p>Tailwind CSS, JavaScript, React.js, Next.js (currently learning)<br>
+   <p>Tailwind CSS, JavaScript, React.js, currently learning Next.js<br>
      Python, Java, Robot Framework, Selenium Library</p>
 
 <h3>🌟 Familiar With:</h3>
