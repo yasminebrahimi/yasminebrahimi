@@ -15,7 +15,7 @@
 
 
 <h2> Skills: </h2>
-   <p>Tailwind CSS, HTML/CSS, JavaScript, React.js, Redux, (currently learning Next.js), Java, Robot Framework (BDD & TDD), Selenium Library, Rest API, JSON, SQL/MySQL, AWS, 
+   <p>Tailwind CSS, HTML/CSS, JavaScript, React.js, Redux, (currently learning Next.js), Java, Robot Framework (BDD & TDD), Selenium Library,SQL/MySQL, Rest API, JSON, AWS, 
       Pandas, NumPy, Matplotlib, Git, GitHub, Data Architecture (ETL), Machine Learning algorithms, Agile Methodology, Confluence, Jira, Docker, Power BI, Postman, Visual Studio 2022, SQL 
       Server Management Studio 20, Figma, CMS</p>
 
