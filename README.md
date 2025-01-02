@@ -14,16 +14,9 @@
 ###
 
 
-<h3>💻 Languages, Libraries, and Frameworks:</h3>
-   <p>Tailwind CSS, JavaScript, React.js-Redux, currently learning Next.js<br>
-     Java<br>
-     Robot Framework (BDD & TDD), Selenium Library</p>
-
-<h3>🌟 Familiar With:</h3>
-   <p>MySQL, AWS, Data Architecture (ETL), Machine Learning algorithms, Pandas, NumPy, Matplotlib</p>
-
-<h3>🛠️ Tools:</h3>
-   <p>Git, GitHub, Agile Methodology, Docker, Power BI, Postman, Visual Studio 2022, SQL Server Management Studio 20</p>
+<h3>Skills</h3>
+   <p>Tailwind CSS, JavaScript, React.js-Redux, currently learning Next.js, Java, Robot Framework (BDD & TDD), Selenium Library, MySQL, AWS, Data Architecture (ETL), Machine 
+      Learning algorithms, Pandas, NumPy, Matplotlib, Git, GitHub, Agile Methodology, Docker, Power BI, Postman, Visual Studio 2022, SQL Server Management Studio 20</p>
 
 ###
 
