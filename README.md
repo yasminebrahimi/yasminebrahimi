@@ -17,7 +17,7 @@
 <h3>💻 Languages, Libraries, and Frameworks:</h3>
    <p>Tailwind CSS, JavaScript, React.js, currently learning Next.js<br>
      Python, Java<br>
-     Robot Framework, Selenium Library</p>
+     Robot Framework (BDD & TDD), Selenium Library</p>
 
 <h3>🌟 Familiar With:</h3>
    <p>MySQL, AWS, Data Architecture, Machine Learning algorithms, Pandas, NumPy, Matplotlib</p>
