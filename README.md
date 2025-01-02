@@ -20,7 +20,7 @@
      Robot Framework (BDD & TDD), Selenium Library</p>
 
 <h3>🌟 Familiar With:</h3>
-   <p>MySQL, AWS, Data Architecture, Machine Learning algorithms, Pandas, NumPy, Matplotlib</p>
+   <p>MySQL, AWS, Data Architecture (ETL), Machine Learning algorithms, Pandas, NumPy, Matplotlib</p>
 
 <h3>🛠️ Tools:</h3>
    <p>Git, GitHub, Agile Methodology, Docker, Power BI, Postman, Visual Studio 2022, SQL Server Management Studio 20</p>
