@@ -16,7 +16,7 @@
 
 <h3>💻 Languages, Libraries, and Frameworks:</h3>
    <p>Tailwind CSS, JavaScript, React.js-Redux, currently learning Next.js<br>
-     Python, Java<br>
+     Java<br>
      Robot Framework (BDD & TDD), Selenium Library</p>
 
 <h3>🌟 Familiar With:</h3>
