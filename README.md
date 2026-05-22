@@ -1,4 +1,4 @@
-# Hi, I'm Yasmin Ebrahimi 👋
+# Hi, I'm Yasmin Ebrahimi 
 
 I'm a software developer passionate about building applications that are practical and crafted with clean code and solid architecture.
 
