@@ -12,7 +12,7 @@ My main focus is on building and deploying software applications — backend and
 `Python` &nbsp;`FastAPI` &nbsp;`.NET` &nbsp;`C#` &nbsp;`Node.js` &nbsp;`PostgreSQL` &nbsp;`REST API` 
 
 **Frontend**
-`Javascript` &nbsp;`TypeScript` &nbsp;`React.js` &nbsp;`Next.js`   
+`JavaScript` &nbsp;`TypeScript` &nbsp;`React.js` &nbsp;`Next.js`   
 
 **DevOps & Deployment**
 `Nginx` &nbsp;`Linux` &nbsp;`Bash scripting` &nbsp;`Git` `Docker` &nbsp;`GitHub Actions (CI/CD)`
