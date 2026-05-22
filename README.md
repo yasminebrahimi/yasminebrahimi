@@ -1,6 +1,6 @@
 # Hi, I'm Yasmin Ebrahimi 👋
 
-I'm Yasmin, a software developer based in Finland. I believe good software should be practical, do something meaningful, bring a fresh idea to the table, and be built with clean code and solid architecture. The what and the how matter equally to me.
+I'm a software developer passionate about building applications that are practical and crafted with clean code and solid architecture.
 
 ---
 
