@@ -20,6 +20,7 @@ My main focus is on building and deploying software applications — backend and
 
 **Cloud**
 `Azure` &nbsp;`AWS` &nbsp;`Hugging Face Spaces`
+
 ---
 
 ##  Machine Learning 
