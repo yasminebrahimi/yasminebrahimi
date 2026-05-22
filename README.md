@@ -4,7 +4,7 @@ I'm Yasmin, a software developer based in Finland. I believe good software shoul
 
 ---
 
-## My Tech Stack
+## 🛠️ My Tech Stack in Software Development 
 
 My main focus is on building and deploying software applications — backend and frontend. I'm also actively growing into system design and architecture.
 
@@ -27,7 +27,7 @@ My main focus is on building and deploying software applications — backend and
 
 ---
 
-## Computer Vision & ML
+## 🤖 Machine Learning 
 
 I'm also interested in Machine learning - particularly computer vision. You can find my work on [Kaggle](https://www.kaggle.com/yasminebrahimi).
 
