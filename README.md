@@ -20,11 +20,6 @@ My main focus is on building and deploying software applications — backend and
 
 **Cloud**
 `GCP` &nbsp;`AWS` &nbsp;`Hugging Face Spaces` &nbsp;`Azure`
-
-**System Design & Architecture**
-*Actively improving:* `System design principles` &nbsp;`REST API design patterns` &nbsp;`Database design` &nbsp;`Design patterns` &nbsp;`Microservices`
-
-
 ---
 
 ##  Machine Learning 
@@ -32,10 +27,7 @@ My main focus is on building and deploying software applications — backend and
 I'm also interested in Machine learning - particularly computer vision. You can find my work on [Kaggle](https://www.kaggle.com/yasminebrahimi).
 
 **My Skiils**
-`TensorFlow / Keras` &nbsp;`scikit-learn` &nbsp;`CNNs (DenseNet · InceptionResNetV2 · ConvNeXt · MobileNet)` &nbsp;`Transfer learning & fine-tuning` &nbsp;`Image augmentation (Albumentations)` &nbsp;`Model evaluation (cross-validation · F1 · ROC-AUC · MAE · R²)` &nbsp;`GPU training (Colab · Kaggle)`
-
-**Improving**
-`PyTorch` &nbsp;`MLflow / W&B` &nbsp;`Hugging Face Transformers` &nbsp;`SHAP · Grad-CAM`
+`TensorFlow / Keras` &nbsp;`scikit-learn` &nbsp;`PyTorch`
 
 ---
 
